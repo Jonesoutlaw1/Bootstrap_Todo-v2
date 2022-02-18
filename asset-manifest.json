@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bootstrap_Todo-v2/static/css/main.44c83f31.css",
+    "main.js": "/Bootstrap_Todo-v2/static/js/main.850b6ef9.js",
+    "index.html": "/Bootstrap_Todo-v2/index.html",
+    "main.44c83f31.css.map": "/Bootstrap_Todo-v2/static/css/main.44c83f31.css.map",
+    "main.850b6ef9.js.map": "/Bootstrap_Todo-v2/static/js/main.850b6ef9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44c83f31.css",
+    "static/js/main.850b6ef9.js"
+  ]
+}
